@@ -1,5 +1,0 @@
-Username: omihadkar@live.in
-pwd: Cisco!1234
-
-KeyPair
-KP: FirstECInstance
